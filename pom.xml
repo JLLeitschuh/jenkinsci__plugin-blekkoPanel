@@ -85,7 +85,7 @@
     <repositories>
         <repository>
             <id>tek42.com</id>
-            <url>http://tek42.com/maven2</url>
+            <url>https://tek42.com/maven2</url>
             <releases>
                 <enabled>true</enabled>
                 <updatePolicy>never</updatePolicy>
